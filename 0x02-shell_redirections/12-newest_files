@@ -1,2 +1,2 @@
 #!/bin/bash
-ls --time-style=TIME_STYLE
+ls -n 10 --time-style=TIME_STYLE
