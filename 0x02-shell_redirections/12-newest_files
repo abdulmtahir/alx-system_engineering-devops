@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -n 10 --time-style=TIME_STYLE
+ls -lt | head -n 10
